@@ -1,3 +1,6 @@
+macOS下编译并打包RedisDesktopManager
+https://zhuanlan.zhihu.com/p/86873158
+
 # [RDM](http://rdm.dev "RDM Official Site")
 
 [Install & Run](http://docs.rdm.dev/en/latest/install/) | 
@@ -30,6 +33,3 @@ Open source cross-platform Desktop Manager for Redis &reg; based on Qt 5
 </a>
 
 **Supported Redis versions**: 2.8+ (for old redis-servers use [RedisDesktopManager 0.8.8](https://github.com/uglide/RedisDesktopManager/releases/tag/0.8.8))
-
-macOS下编译并打包RedisDesktopManager
-https://zhuanlan.zhihu.com/p/86873158
